@@ -1,5 +1,5 @@
 ### Xin chào mọi người!
-Mình tên là Trần Nguyễn Vĩnh Uy, hiện đang là sinh viên năm thứ 4 của trường VKU (Vietnam Korea University). Và chuyên ngành của mình là Công Nghệ Phần Mềm.
+Mình tên là Trần Nguyễn Vĩnh Uy, hiện đang là sinh viên năm thứ 4 của trường VKU (Vietnam Korea University). Và chuyên ngành của mình là Công Nghệ Phần Mềm. <br />
 Mình đang mong muốn được thực tập về Backend sử dụng Node.js, mình quen sử dụng Express Framework để viết API cho các ứng dụng Mobile, Website.
 
 <!--
