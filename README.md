@@ -1,4 +1,6 @@
-### Hi there 👋
+### Xin chào mọi người!
+Mình tên là Trần Nguyễn Vĩnh Uy, hiện đang là sinh viên năm thứ 4 của trường VKU (Vietnam Korea University). Và chuyên ngành của mình là Công Nghệ Phần Mềm.
+Mình đang mong muốn được thực tập về Backend sử dụng Node.js, mình quen sử dụng Express Framework để viết API cho các ứng dụng Mobile, Website.
 
 <!--
 **vinhuy2002/vinhuy2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
