@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Nguyễn Vĩnh Uy</h1>
 <h3 align="center">I'm from Vietnam, and currently in fourth year of Vietnam - Korea University.</h3>
 
-- 🌱 I’m currently learning **ExpressJS, React Native, ReactJS (NextJS Framework)**
+- 🌱 I’m currently learning **ExpressJS, React Native, ReactJS**
 
 - 📫 How to reach me **vinhuy2002@gmail.com**
 
